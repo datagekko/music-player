@@ -19,7 +19,7 @@ const songs = [
     },
     {
         name: 'weaintthesame',
-        displayName: `We Ain't the same`,
+        displayName: `We Ain't The Same`,
         artist: 'Kilz feat. Chris',
     },
     {
